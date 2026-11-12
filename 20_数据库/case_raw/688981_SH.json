@@ -1,0 +1,294 @@
+{
+  "序号": "3",
+  "推进顺序": "3",
+  "企业": "中芯国际",
+  "代码": "688981.SH",
+  "行业": "半导体",
+  "所有制": "公众公司",
+  "上市地": "A+H",
+  "优先级": "核心",
+  "备注": "半导体链主",
+  "data": {
+    "stock_basic": {
+      "ts_code": "688981.SH",
+      "name": "中芯国际",
+      "industry": "半导体",
+      "market": "科创板",
+      "list_date": "20200716",
+      "act_name": "无实际控制人",
+      "act_ent_type": "无"
+    },
+    "stock_company": {
+      "ts_code": "688981.SH",
+      "main_business": "全球领先的集成电路晶圆代工企业之一，也是中国大陆技术最先进、规模最大、配套服务最完善、跨国经营的专业晶圆代工企业，主要为客户提供0.35微米至14纳米多种技术节点、不同工艺平台的集成电路晶圆代工及配套服务。",
+      "province": "境外",
+      "city": "境外",
+      "employees": 19952
+    },
+    "income": [
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20201231",
+        "ann_date": "20210401",
+        "report_type": "1",
+        "revenue": 27470709000.0,
+        "oper_cost": 20937253000.0,
+        "rd_exp": 4671919000.0,
+        "n_income": 4021326000.0,
+        "total_revenue": 27470709000.0
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20211231",
+        "ann_date": "20220331",
+        "report_type": "1",
+        "revenue": 35630634000.0,
+        "oper_cost": 25189070000.0,
+        "rd_exp": 4120592000.0,
+        "n_income": 11202505000.0,
+        "total_revenue": 35630634000.0
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20221231",
+        "ann_date": "20230329",
+        "report_type": "1",
+        "revenue": 49516084000.0,
+        "oper_cost": 30552673000.0,
+        "rd_exp": 4953026000.0,
+        "n_income": 14653530000.0,
+        "total_revenue": 49516084000.0
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20231231",
+        "ann_date": "20240329",
+        "report_type": "1",
+        "revenue": 45250425000.0,
+        "oper_cost": 35346301000.0,
+        "rd_exp": 4991551000.0,
+        "n_income": 6396152000.0,
+        "total_revenue": 45250425000.0
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20241231",
+        "ann_date": "20250328",
+        "report_type": "1",
+        "revenue": 57795570000.0,
+        "oper_cost": 47051267000.0,
+        "rd_exp": 5447122000.0,
+        "n_income": 5373118000.0,
+        "total_revenue": 57795570000.0
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20251231",
+        "ann_date": "20260327",
+        "report_type": "1",
+        "revenue": 67323192000.0,
+        "oper_cost": 52765123000.0,
+        "rd_exp": 5518596000.0,
+        "n_income": 7208910000.0,
+        "total_revenue": 67323192000.0
+      }
+    ],
+    "balancesheet": [
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20201231",
+        "ann_date": "20210401",
+        "report_type": "1",
+        "total_assets": 204601654000.0,
+        "st_borr": 2956808000.0,
+        "lt_borr": 26331038000.0,
+        "bond_payable": 5469756000.0,
+        "nca_within_1y": 23780000.0,
+        "accounts_receiv": 2901820000.0,
+        "inventories": 5218001000.0
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20211231",
+        "ann_date": "20220331",
+        "report_type": "1",
+        "total_assets": 229932806000.0,
+        "st_borr": 1082458000.0,
+        "lt_borr": 31440128000.0,
+        "bond_payable": 3805556000.0,
+        "nca_within_1y": 749328000.0,
+        "accounts_receiv": 4397088000.0,
+        "inventories": 7601472000.0
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20221231",
+        "ann_date": "20230329",
+        "report_type": "1",
+        "total_assets": 305103691000.0,
+        "st_borr": 4519383000.0,
+        "lt_borr": 46790301000.0,
+        "bond_payable": 4167467000.0,
+        "nca_within_1y": 14290889000.0,
+        "accounts_receiv": 4807125000.0,
+        "inventories": 13312746000.0
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20231231",
+        "ann_date": "20240329",
+        "report_type": "1",
+        "total_assets": 338463197000.0,
+        "st_borr": 3397576000.0,
+        "lt_borr": 59031810000.0,
+        "bond_payable": 4243352000.0,
+        "nca_within_1y": 15125314000.0,
+        "accounts_receiv": 3501291000.0,
+        "inventories": 19377706000.0
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20241231",
+        "ann_date": "20250328",
+        "report_type": "1",
+        "total_assets": 353415296000.0,
+        "st_borr": 1070438000.0,
+        "lt_borr": 57785439000.0,
+        "bond_payable": null,
+        "nca_within_1y": 27965352000.0,
+        "accounts_receiv": 2922670000.0,
+        "inventories": 21267282000.0
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20251231",
+        "ann_date": "20260327",
+        "report_type": "1",
+        "total_assets": 367718196000.0,
+        "st_borr": 3452046000.0,
+        "lt_borr": 70311227000.0,
+        "bond_payable": null,
+        "nca_within_1y": 28936540000.0,
+        "accounts_receiv": 6167839000.0,
+        "inventories": 25534929000.0
+      }
+    ],
+    "fina_indicator": [
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20201231",
+        "debt_to_assets": 30.7748,
+        "roe": 6.0718
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20211231",
+        "debt_to_assets": 29.5556,
+        "roe": 10.3041
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20221231",
+        "debt_to_assets": 33.8898,
+        "roe": 10.0037
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20231231",
+        "debt_to_assets": 35.4523,
+        "roe": 3.4967
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20241231",
+        "debt_to_assets": 35.1732,
+        "roe": 2.545
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20251231",
+        "debt_to_assets": 33.0024,
+        "roe": 3.3716
+      }
+    ],
+    "daily_basic": {
+      "ts_code": "688981.SH",
+      "trade_date": "20261112",
+      "total_mv": 95659422.1548,
+      "pe_ttm": 132.7258,
+      "pb": 5.5792
+    },
+    "pledge_stat": {
+      "ts_code": "688981.SH",
+      "end_date": "20261106",
+      "pledge_count": 2,
+      "unrest_pledge": 180.96,
+      "rest_pledge": 0.0,
+      "total_share": 254777.6,
+      "pledge_ratio": 0.07
+    },
+    "top10_holders": [
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20251231",
+        "holder_name": "HKSCCNOMINEESLIMITED",
+        "hold_ratio": 55.9871
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20251231",
+        "holder_name": "鑫芯(香港)投资有限公司",
+        "hold_ratio": 4.786
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20251231",
+        "holder_name": "国家集成电路产业投资基金二期股份有限公司",
+        "hold_ratio": 1.5931
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20251231",
+        "holder_name": "中国工商银行股份有限公司-易方达上证科创板50成份交易型开放式指数证券投资基金",
+        "hold_ratio": 0.7539
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20251231",
+        "holder_name": "中信证券股份有限公司-嘉实上证科创板芯片交易型开放式指数证券投资基金",
+        "hold_ratio": 0.4182
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20251231",
+        "holder_name": "中国信息通信科技集团有限公司",
+        "hold_ratio": 0.9058
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20251231",
+        "holder_name": "大唐控股(香港)投资有限公司",
+        "hold_ratio": 14.0623
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20251231",
+        "holder_name": "中国工商银行-上证50交易型开放式指数证券投资基金",
+        "hold_ratio": 0.4623
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20251231",
+        "holder_name": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
+        "hold_ratio": 0.8063
+      },
+      {
+        "ts_code": "688981.SH",
+        "end_date": "20251231",
+        "holder_name": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
+        "hold_ratio": 0.4123
+      }
+    ]
+  },
+  "errors": []
+}

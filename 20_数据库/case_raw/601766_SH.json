@@ -1,0 +1,330 @@
+{
+  "序号": "6",
+  "推进顺序": "6",
+  "企业": "中国中车",
+  "代码": "601766.SH",
+  "行业": "高端装备",
+  "所有制": "国有",
+  "上市地": "A+H",
+  "优先级": "核心",
+  "备注": "装备链主",
+  "data": {
+    "stock_basic": {
+      "ts_code": "601766.SH",
+      "name": "中国中车",
+      "industry": "运输设备",
+      "market": "主板",
+      "list_date": "20080818",
+      "act_name": "国务院国有资产监督管理委员会",
+      "act_ent_type": "中央国企"
+    },
+    "stock_company": {
+      "ts_code": "601766.SH",
+      "main_business": "公司主要从事铁路机车、客车、动车组、城轨地铁车辆及重要零部件的研发、制造、销售、修理和租赁。",
+      "province": "北京",
+      "city": "北京市",
+      "employees": 151602
+    },
+    "income": [
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20201231",
+        "ann_date": "20210331",
+        "report_type": "1",
+        "revenue": 227656041000.0,
+        "oper_cost": 176954601000.0,
+        "rd_exp": 13349896000.0,
+        "n_income": 13823060000.0,
+        "total_revenue": 227656041000.0
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20211231",
+        "ann_date": "20220331",
+        "report_type": "1",
+        "revenue": 225731755000.0,
+        "oper_cost": 179303892000.0,
+        "rd_exp": 13085219000.0,
+        "n_income": 12417546000.0,
+        "total_revenue": 225731755000.0
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20221231",
+        "ann_date": "20230331",
+        "report_type": "1",
+        "revenue": 222938637000.0,
+        "oper_cost": 175625777000.0,
+        "rd_exp": 13129748000.0,
+        "n_income": 14352175000.0,
+        "total_revenue": 222938637000.0
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20231231",
+        "ann_date": "20240329",
+        "report_type": "1",
+        "revenue": 234261514000.0,
+        "oper_cost": 182101404000.0,
+        "rd_exp": 14363696000.0,
+        "n_income": 14569647000.0,
+        "total_revenue": 234261514000.0
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20241231",
+        "ann_date": "20250329",
+        "report_type": "1",
+        "revenue": 246456804000.0,
+        "oper_cost": 193763279000.0,
+        "rd_exp": 15936698000.0,
+        "n_income": 15663893000.0,
+        "total_revenue": 246456804000.0
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "ann_date": "20260328",
+        "report_type": "1",
+        "revenue": 273063098000.0,
+        "oper_cost": 214684021000.0,
+        "rd_exp": 17640973000.0,
+        "n_income": 16895554000.0,
+        "total_revenue": 273063098000.0
+      }
+    ],
+    "balancesheet": [
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20201231",
+        "ann_date": "20210331",
+        "report_type": "1",
+        "total_assets": 392380368000.0,
+        "st_borr": 11782170000.0,
+        "lt_borr": 4202602000.0,
+        "bond_payable": 2500000000.0,
+        "nca_within_1y": 17124785000.0,
+        "accounts_receiv": 71969626000.0,
+        "inventories": 62966123000.0
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20211231",
+        "ann_date": "20220331",
+        "report_type": "1",
+        "total_assets": 426826499000.0,
+        "st_borr": 15815647000.0,
+        "lt_borr": 7454276000.0,
+        "bond_payable": 2500000000.0,
+        "nca_within_1y": 15821211000.0,
+        "accounts_receiv": 72985213000.0,
+        "inventories": 61420021000.0
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20221231",
+        "ann_date": "20230331",
+        "report_type": "1",
+        "total_assets": 442140146000.0,
+        "st_borr": 13627730000.0,
+        "lt_borr": 6096122000.0,
+        "bond_payable": null,
+        "nca_within_1y": 6019677000.0,
+        "accounts_receiv": 88987037000.0,
+        "inventories": 63136015000.0
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20231231",
+        "ann_date": "20240329",
+        "report_type": "1",
+        "total_assets": 471791735000.0,
+        "st_borr": 8129856000.0,
+        "lt_borr": 6984860000.0,
+        "bond_payable": null,
+        "nca_within_1y": 4560516000.0,
+        "accounts_receiv": 105705827000.0,
+        "inventories": 66848740000.0
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20241231",
+        "ann_date": "20250329",
+        "report_type": "1",
+        "total_assets": 512823630000.0,
+        "st_borr": 7065648000.0,
+        "lt_borr": 5648597000.0,
+        "bond_payable": null,
+        "nca_within_1y": 4907654000.0,
+        "accounts_receiv": 110844449000.0,
+        "inventories": 78946885000.0
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "ann_date": "20260328",
+        "report_type": "1",
+        "total_assets": 550774434000.0,
+        "st_borr": 7329911000.0,
+        "lt_borr": 7558981000.0,
+        "bond_payable": null,
+        "nca_within_1y": 2681021000.0,
+        "accounts_receiv": 116502100000.0,
+        "inventories": 95142504000.0
+      }
+    ],
+    "fina_indicator": [
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20201231",
+        "debt_to_assets": 56.8935,
+        "roe": 8.1251
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20211231",
+        "debt_to_assets": 57.2914,
+        "roe": 7.0664
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20221231",
+        "debt_to_assets": 56.8042,
+        "roe": 7.6764
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20231231",
+        "debt_to_assets": 58.3453,
+        "roe": 7.412
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20241231",
+        "debt_to_assets": 59.0123,
+        "roe": 7.5133
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "debt_to_assets": 60.7682,
+        "roe": 7.7332
+      }
+    ],
+    "daily_basic": {
+      "ts_code": "601766.SH",
+      "trade_date": "20261112",
+      "total_mv": 17994187.7907,
+      "pe_ttm": 13.2812,
+      "pb": 1.0238
+    },
+    "pledge_stat": {
+      "ts_code": "601766.SH",
+      "end_date": "20261106",
+      "pledge_count": 2,
+      "unrest_pledge": 2723.37,
+      "rest_pledge": 0.0,
+      "total_share": 2432779.8,
+      "pledge_ratio": 0.11
+    },
+    "top10_holders": [
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "中国中车集团有限公司",
+        "hold_ratio": 50.8298
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "HKSCCNOMINEESLIMITED",
+        "hold_ratio": 15.1927
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "中国证券金融股份有限公司",
+        "hold_ratio": 2.1104
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "香港中央结算有限公司",
+        "hold_ratio": 1.4192
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "平安资管-工商银行-平安资产夏荷21号资产管理产品",
+        "hold_ratio": 1.1941
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "中央汇金资产管理有限责任公司",
+        "hold_ratio": 1.0386
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "博时基金-农业银行-博时中证金融资产管理计划",
+        "hold_ratio": 0.8188
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "易方达基金-农业银行-易方达中证金融资产管理计划",
+        "hold_ratio": 0.8188
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "大成基金-农业银行-大成中证金融资产管理计划",
+        "hold_ratio": 0.8188
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "嘉实基金-农业银行-嘉实中证金融资产管理计划",
+        "hold_ratio": 0.8188
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "广发基金-农业银行-广发中证金融资产管理计划",
+        "hold_ratio": 0.8188
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "中欧基金-农业银行-中欧中证金融资产管理计划",
+        "hold_ratio": 0.8188
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "华夏基金-农业银行-华夏中证金融资产管理计划",
+        "hold_ratio": 0.8188
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "银华基金-农业银行-银华中证金融资产管理计划",
+        "hold_ratio": 0.8188
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "南方基金-农业银行-南方中证金融资产管理计划",
+        "hold_ratio": 0.8188
+      },
+      {
+        "ts_code": "601766.SH",
+        "end_date": "20251231",
+        "holder_name": "工银瑞信基金-农业银行-工银瑞信中证金融资产管理计划",
+        "hold_ratio": 0.8188
+      }
+    ]
+  },
+  "errors": []
+}

@@ -1,0 +1,294 @@
+{
+  "序号": "12",
+  "推进顺序": "备选4",
+  "企业": "立讯精密",
+  "代码": "002475.SZ",
+  "行业": "消费电子制造",
+  "所有制": "民营",
+  "上市地": "A",
+  "优先级": "备选",
+  "备注": "制造链主",
+  "data": {
+    "stock_basic": {
+      "ts_code": "002475.SZ",
+      "name": "立讯精密",
+      "industry": "元器件",
+      "market": "主板",
+      "list_date": "20100915",
+      "act_name": "王来胜,王来春",
+      "act_ent_type": "自然人"
+    },
+    "stock_company": {
+      "ts_code": "002475.SZ",
+      "main_business": "公司专注于连接器的研发、生产和销售,产品主要应用于3C(电脑、通讯、消费电子)、汽车和通讯设备等领域。",
+      "province": "广东",
+      "city": "深圳市",
+      "employees": 416197
+    },
+    "income": [
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20201231",
+        "ann_date": "20210421",
+        "report_type": "1",
+        "revenue": 92501259211.54,
+        "oper_cost": 75770007049.58,
+        "rd_exp": 5744805136.33,
+        "n_income": 7491014735.42,
+        "total_revenue": 92501259211.54
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20211231",
+        "ann_date": "20220428",
+        "report_type": "1",
+        "revenue": 153946097790.4,
+        "oper_cost": 135048336292.88,
+        "rd_exp": 6642300402.74,
+        "n_income": 7820610306.19,
+        "total_revenue": 153946097790.4
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20221231",
+        "ann_date": "20230428",
+        "report_type": "1",
+        "revenue": 214028394291.44,
+        "oper_cost": 187928880285.38,
+        "rd_exp": 8447038946.21,
+        "n_income": 10490676778.96,
+        "total_revenue": 214028394291.44
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20231231",
+        "ann_date": "20240425",
+        "report_type": "1",
+        "revenue": 231905459829.83,
+        "oper_cost": 205041300458.59,
+        "rd_exp": 8188767532.85,
+        "n_income": 12243213143.13,
+        "total_revenue": 231905459829.83
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20241231",
+        "ann_date": "20250426",
+        "report_type": "1",
+        "revenue": 268794737612.58,
+        "oper_cost": 240809417980.59,
+        "rd_exp": 8555957431.46,
+        "n_income": 14579043817.85,
+        "total_revenue": 268794737612.58
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20251231",
+        "ann_date": "20260415",
+        "report_type": "1",
+        "revenue": 332344443143.39,
+        "oper_cost": 292755910976.71,
+        "rd_exp": 11428041090.59,
+        "n_income": 18170236828.67,
+        "total_revenue": 332344443143.39
+      }
+    ],
+    "balancesheet": [
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20201231",
+        "ann_date": "20210421",
+        "report_type": "1",
+        "total_assets": 70012753551.75,
+        "st_borr": 7577068798.49,
+        "lt_borr": 1495199238.41,
+        "bond_payable": 2475423249.98,
+        "nca_within_1y": null,
+        "accounts_receiv": 13839155340.47,
+        "inventories": 13211009381.15
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20211231",
+        "ann_date": "20220428",
+        "report_type": "1",
+        "total_assets": 120572098167.88,
+        "st_borr": 11919635337.99,
+        "lt_borr": 5025096193.09,
+        "bond_payable": 2805785000.04,
+        "nca_within_1y": null,
+        "accounts_receiv": 31623185946.25,
+        "inventories": 20900755733.15
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20221231",
+        "ann_date": "20230428",
+        "report_type": "1",
+        "total_assets": 148384319074.71,
+        "st_borr": 14911899668.93,
+        "lt_borr": 9205313060.94,
+        "bond_payable": 2689623546.98,
+        "nca_within_1y": null,
+        "accounts_receiv": 26043354859.19,
+        "inventories": 37363329476.66
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20231231",
+        "ann_date": "20240425",
+        "report_type": "1",
+        "total_assets": 161992099595.65,
+        "st_borr": 20514182240.47,
+        "lt_borr": 12038771289.92,
+        "bond_payable": 2799499850.29,
+        "nca_within_1y": 1047566017.54,
+        "accounts_receiv": 23504481889.07,
+        "inventories": 29757930319.35
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20241231",
+        "ann_date": "20250426",
+        "report_type": "1",
+        "total_assets": 223827584433.26,
+        "st_borr": 35313128924.26,
+        "lt_borr": 19619741634.77,
+        "bond_payable": 3305436590.71,
+        "nca_within_1y": 4199154224.92,
+        "accounts_receiv": 32561098916.58,
+        "inventories": 31702675549.03
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20251231",
+        "ann_date": "20260415",
+        "report_type": "1",
+        "total_assets": 306537675786.42,
+        "st_borr": 60137739468.49,
+        "lt_borr": 16441982591.33,
+        "bond_payable": 3491837425.22,
+        "nca_within_1y": 9638642106.65,
+        "accounts_receiv": 48438796114.12,
+        "inventories": 42332782449.47
+      }
+    ],
+    "fina_indicator": [
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20201231",
+        "debt_to_assets": 55.8558,
+        "roe": 29.8582
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20211231",
+        "debt_to_assets": 62.0288,
+        "roe": 22.3079
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20221231",
+        "debt_to_assets": 60.384,
+        "roe": 22.7284
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20231231",
+        "debt_to_assets": 56.6122,
+        "roe": 21.5491
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20241231",
+        "debt_to_assets": 62.1641,
+        "roe": 21.2766
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20251231",
+        "debt_to_assets": 66.0661,
+        "roe": 21.5235
+      }
+    ],
+    "daily_basic": {
+      "ts_code": "002475.SZ",
+      "trade_date": "20261112",
+      "total_mv": 39351641.6832,
+      "pe_ttm": 21.6951,
+      "pb": 3.2807
+    },
+    "pledge_stat": {
+      "ts_code": "002475.SZ",
+      "end_date": "20261106",
+      "pledge_count": 16,
+      "unrest_pledge": 103329.2,
+      "rest_pledge": 0.0,
+      "total_share": 734783.27,
+      "pledge_ratio": 14.06
+    },
+    "top10_holders": [
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20251231",
+        "holder_name": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
+        "hold_ratio": 0.8242
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20251231",
+        "holder_name": "中国银行股份有限公司-嘉实沪深300交易型开放式指数证券投资基金",
+        "hold_ratio": 0.5425
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20251231",
+        "holder_name": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
+        "hold_ratio": 1.1531
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20251231",
+        "holder_name": "立讯有限公司",
+        "hold_ratio": 37.4911
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20251231",
+        "holder_name": "香港中央结算有限公司",
+        "hold_ratio": 7.2465
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20251231",
+        "holder_name": "中国证券金融股份有限公司",
+        "hold_ratio": 1.1588
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20251231",
+        "holder_name": "中国工商银行股份有限公司-华夏沪深300交易型开放式指数证券投资基金",
+        "hold_ratio": 0.629
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20251231",
+        "holder_name": "中央汇金资产管理有限责任公司",
+        "hold_ratio": 0.7966
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20251231",
+        "holder_name": "易方达基金-农业银行-易方达中证金融资产管理计划",
+        "hold_ratio": 0.5306
+      },
+      {
+        "ts_code": "002475.SZ",
+        "end_date": "20251231",
+        "holder_name": "华夏基金-农业银行-华夏中证金融资产管理计划",
+        "hold_ratio": 0.5295
+      }
+    ]
+  },
+  "errors": []
+}

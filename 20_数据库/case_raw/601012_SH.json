@@ -1,0 +1,294 @@
+{
+  "序号": "7",
+  "推进顺序": "7",
+  "企业": "隆基绿能",
+  "代码": "601012.SH",
+  "行业": "光伏",
+  "所有制": "民营",
+  "上市地": "A",
+  "优先级": "核心",
+  "备注": "光伏链主",
+  "data": {
+    "stock_basic": {
+      "ts_code": "601012.SH",
+      "name": "隆基绿能",
+      "industry": "电气设备",
+      "market": "主板",
+      "list_date": "20120411",
+      "act_name": "李振国",
+      "act_ent_type": "自然人"
+    },
+    "stock_company": {
+      "ts_code": "601012.SH",
+      "main_business": "单晶硅棒、硅片的研发、生产、销售。主要产品包括6英寸、6.5英寸、8英寸的单晶硅棒、单晶硅片。",
+      "province": "陕西",
+      "city": "西安市",
+      "employees": 32775
+    },
+    "income": [
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20201231",
+        "ann_date": "20210421",
+        "report_type": "1",
+        "revenue": 54583183588.46,
+        "oper_cost": 41145628529.0,
+        "rd_exp": 499103854.57,
+        "n_income": 8699695922.45,
+        "total_revenue": 54583183588.46
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20211231",
+        "ann_date": "20220428",
+        "report_type": "1",
+        "revenue": 80932251148.68,
+        "oper_cost": 64589660267.79,
+        "rd_exp": 854376146.6,
+        "n_income": 9073810918.74,
+        "total_revenue": 80932251148.68
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20221231",
+        "ann_date": "20230428",
+        "report_type": "1",
+        "revenue": 128998111551.18,
+        "oper_cost": 109164093984.54,
+        "rd_exp": 1281985911.16,
+        "n_income": 14762832083.83,
+        "total_revenue": 128998111551.18
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20231231",
+        "ann_date": "20240430",
+        "report_type": "1",
+        "revenue": 129497674192.2,
+        "oper_cost": 105852249768.92,
+        "rd_exp": 2282936122.29,
+        "n_income": 10686657614.81,
+        "total_revenue": 129497674192.2
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20241231",
+        "ann_date": "20250430",
+        "report_type": "1",
+        "revenue": 82582273118.72,
+        "oper_cost": 76439845701.51,
+        "rd_exp": 1815350633.16,
+        "n_income": -8677451528.22,
+        "total_revenue": 82582273118.72
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20251231",
+        "ann_date": "20260429",
+        "report_type": "1",
+        "revenue": 70347049950.42,
+        "oper_cost": 69777399589.97,
+        "rd_exp": 1546796943.74,
+        "n_income": -6509714466.5,
+        "total_revenue": 70347049950.42
+      }
+    ],
+    "balancesheet": [
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20201231",
+        "ann_date": "20210421",
+        "report_type": "1",
+        "total_assets": 87634828684.09,
+        "st_borr": 2415965626.06,
+        "lt_borr": 1125286240.29,
+        "bond_payable": 4351411265.99,
+        "nca_within_1y": 1078392.41,
+        "accounts_receiv": 7270501797.93,
+        "inventories": 11452416318.73
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20211231",
+        "ann_date": "20220428",
+        "report_type": "1",
+        "total_assets": 97734879281.67,
+        "st_borr": 3231724964.7,
+        "lt_borr": 1661345365.66,
+        "bond_payable": null,
+        "nca_within_1y": 434648.96,
+        "accounts_receiv": 7853446464.15,
+        "inventories": 14098031956.87
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20221231",
+        "ann_date": "20230428",
+        "report_type": "1",
+        "total_assets": 139555593046.86,
+        "st_borr": 78641234.04,
+        "lt_borr": 2912000000.0,
+        "bond_payable": 6614160739.35,
+        "nca_within_1y": 40916477.84,
+        "accounts_receiv": 9075746512.31,
+        "inventories": 19317555540.96
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20231231",
+        "ann_date": "20240430",
+        "report_type": "1",
+        "total_assets": 163969201409.91,
+        "st_borr": null,
+        "lt_borr": 5274200000.0,
+        "bond_payable": 6804161712.35,
+        "nca_within_1y": 41621901.29,
+        "accounts_receiv": 10855845347.33,
+        "inventories": 21539560787.57
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20241231",
+        "ann_date": "20250430",
+        "report_type": "1",
+        "total_assets": 152844602368.05,
+        "st_borr": 300223666.66,
+        "lt_borr": 13949126850.8,
+        "bond_payable": 6973410085.8,
+        "nca_within_1y": 55104239.59,
+        "accounts_receiv": 13940747611.88,
+        "inventories": 13382209109.1
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20251231",
+        "ann_date": "20260429",
+        "report_type": "1",
+        "total_assets": 153803608808.29,
+        "st_borr": 300193416.63,
+        "lt_borr": 6825267539.84,
+        "bond_payable": 9510050595.59,
+        "nca_within_1y": 471908.23,
+        "accounts_receiv": 11551104332.65,
+        "inventories": 14541724708.56
+      }
+    ],
+    "fina_indicator": [
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20201231",
+        "debt_to_assets": 59.3791,
+        "roe": 27.2653
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20211231",
+        "debt_to_assets": 51.3102,
+        "roe": 22.0121
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20221231",
+        "debt_to_assets": 55.391,
+        "roe": 27.0298
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20231231",
+        "debt_to_assets": 56.8748,
+        "roe": 16.2115
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20241231",
+        "debt_to_assets": 59.828,
+        "roe": -13.1177
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20251231",
+        "debt_to_assets": 64.428,
+        "roe": -11.1479
+      }
+    ],
+    "daily_basic": {
+      "ts_code": "601012.SH",
+      "trade_date": "20261112",
+      "total_mv": 8926966.2244,
+      "pe_ttm": null,
+      "pb": 1.9299
+    },
+    "pledge_stat": {
+      "ts_code": "601012.SH",
+      "end_date": "20261106",
+      "pledge_count": 3,
+      "unrest_pledge": 20654.97,
+      "rest_pledge": 0.0,
+      "total_share": 757807.02,
+      "pledge_ratio": 2.73
+    },
+    "top10_holders": [
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20251231",
+        "holder_name": "中央汇金资产管理有限责任公司",
+        "hold_ratio": 1.1909
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20251231",
+        "holder_name": "香港中央结算有限公司",
+        "hold_ratio": 4.4721
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20251231",
+        "holder_name": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
+        "hold_ratio": 0.9425
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20251231",
+        "holder_name": "李春安",
+        "hold_ratio": 2.1133
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20251231",
+        "holder_name": "李喜燕",
+        "hold_ratio": 5.022
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20251231",
+        "holder_name": "李振国",
+        "hold_ratio": 14.083
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20251231",
+        "holder_name": "钟宝申",
+        "hold_ratio": 1.4619
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20251231",
+        "holder_name": "HHLR管理有限公司-中国价值基金(交易所)",
+        "hold_ratio": 3.075
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20251231",
+        "holder_name": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
+        "hold_ratio": 1.3215
+      },
+      {
+        "ts_code": "601012.SH",
+        "end_date": "20251231",
+        "holder_name": "中国工商银行-上证50交易型开放式指数证券投资基金",
+        "hold_ratio": 1.48
+      }
+    ]
+  },
+  "errors": []
+}

@@ -1,0 +1,294 @@
+{
+  "序号": "5",
+  "推进顺序": "5",
+  "企业": "海尔智家",
+  "代码": "600690.SH",
+  "行业": "家电/工业互联网",
+  "所有制": "集体/公众",
+  "上市地": "A+H",
+  "优先级": "核心",
+  "备注": "集团层面非整体上市",
+  "data": {
+    "stock_basic": {
+      "ts_code": "600690.SH",
+      "name": "海尔智家",
+      "industry": "家用电器",
+      "market": "主板",
+      "list_date": "19931119",
+      "act_name": "海尔集团公司",
+      "act_ent_type": "集体企业"
+    },
+    "stock_company": {
+      "ts_code": "600690.SH",
+      "main_business": "电器、电子产品、机械产品、通讯设备及相关配件制造。",
+      "province": "山东",
+      "city": "青岛市",
+      "employees": 134995
+    },
+    "income": [
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20201231",
+        "ann_date": "20210331",
+        "report_type": "1",
+        "revenue": 209725821099.44,
+        "oper_cost": 147475181245.03,
+        "rd_exp": 6860161572.42,
+        "n_income": 11322616277.28,
+        "total_revenue": 209725821099.44
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20211231",
+        "ann_date": "20220331",
+        "report_type": "1",
+        "revenue": 227556143618.17,
+        "oper_cost": 156482657366.94,
+        "rd_exp": 8357332946.25,
+        "n_income": 13217067178.51,
+        "total_revenue": 227556143618.17
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20221231",
+        "ann_date": "20230331",
+        "report_type": "1",
+        "revenue": 243513563670.73,
+        "oper_cost": 167223167396.2,
+        "rd_exp": 9499191097.85,
+        "n_income": 14732181618.53,
+        "total_revenue": 243513563670.73
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20231231",
+        "ann_date": "20240328",
+        "report_type": "1",
+        "revenue": 261427783050.1,
+        "oper_cost": 179053959580.31,
+        "rd_exp": 10221013589.28,
+        "n_income": 16732069774.75,
+        "total_revenue": 261427783050.1
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20241231",
+        "ann_date": "20250328",
+        "report_type": "1",
+        "revenue": 285981225203.93,
+        "oper_cost": 206487065182.92,
+        "rd_exp": 10740112353.47,
+        "n_income": 19575612501.68,
+        "total_revenue": 285981225203.93
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20251231",
+        "ann_date": "20260327",
+        "report_type": "1",
+        "revenue": 302346783918.3,
+        "oper_cost": 221738754173.11,
+        "rd_exp": 10095934065.45,
+        "n_income": 20163093546.51,
+        "total_revenue": 302346783918.3
+      }
+    ],
+    "balancesheet": [
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20201231",
+        "ann_date": "20210331",
+        "report_type": "1",
+        "total_assets": 203459495879.65,
+        "st_borr": 7687908165.88,
+        "lt_borr": 11821416259.81,
+        "bond_payable": 6713501050.27,
+        "nca_within_1y": null,
+        "accounts_receiv": 15930024286.67,
+        "inventories": 29446973404.75
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20211231",
+        "ann_date": "20220331",
+        "report_type": "1",
+        "total_assets": 217459494212.74,
+        "st_borr": 11226212134.39,
+        "lt_borr": 3038573824.53,
+        "bond_payable": 334730048.82,
+        "nca_within_1y": null,
+        "accounts_receiv": 14631018397.43,
+        "inventories": 39863171040.31
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20221231",
+        "ann_date": "20230331",
+        "report_type": "1",
+        "total_assets": 235842254826.77,
+        "st_borr": 9643374732.46,
+        "lt_borr": 13590866873.43,
+        "bond_payable": null,
+        "nca_within_1y": null,
+        "accounts_receiv": 15913691537.11,
+        "inventories": 41542713111.82
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20231231",
+        "ann_date": "20240328",
+        "report_type": "1",
+        "total_assets": 253379859977.97,
+        "st_borr": 10318351841.88,
+        "lt_borr": 17936302925.77,
+        "bond_payable": null,
+        "nca_within_1y": null,
+        "accounts_receiv": 20268099436.43,
+        "inventories": 39524006616.33
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20241231",
+        "ann_date": "20250328",
+        "report_type": "1",
+        "total_assets": 290113822824.61,
+        "st_borr": 13784367443.93,
+        "lt_borr": 9665074313.67,
+        "bond_payable": null,
+        "nca_within_1y": 1439758652.55,
+        "accounts_receiv": 26473001745.01,
+        "inventories": 43044414227.38
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20251231",
+        "ann_date": "20260327",
+        "report_type": "1",
+        "total_assets": 295795068591.57,
+        "st_borr": 17420784420.86,
+        "lt_borr": 11165886169.09,
+        "bond_payable": 3500000000.0,
+        "nca_within_1y": 8666892203.6,
+        "accounts_receiv": 27065839108.45,
+        "inventories": 46848790687.12
+      }
+    ],
+    "fina_indicator": [
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20201231",
+        "debt_to_assets": 66.5236,
+        "roe": 15.4773
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20211231",
+        "debt_to_assets": 62.7135,
+        "roe": 17.8235
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20221231",
+        "debt_to_assets": 59.8403,
+        "roe": 16.9839
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20231231",
+        "debt_to_assets": 58.2004,
+        "roe": 16.8548
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20241231",
+        "debt_to_assets": 59.1922,
+        "roe": 17.4433
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20251231",
+        "debt_to_assets": 57.4107,
+        "roe": 16.9977
+      }
+    ],
+    "daily_basic": {
+      "ts_code": "600690.SH",
+      "trade_date": "20261112",
+      "total_mv": 19322362.3796,
+      "pe_ttm": 11.2478,
+      "pb": 1.5701
+    },
+    "pledge_stat": {
+      "ts_code": "600690.SH",
+      "end_date": "20261106",
+      "pledge_count": 7,
+      "unrest_pledge": 1252.03,
+      "rest_pledge": 0.0,
+      "total_share": 617848.69,
+      "pledge_ratio": 0.2
+    },
+    "top10_holders": [
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20251231",
+        "holder_name": "HKSCCNOMINEESLIMITED",
+        "hold_ratio": 24.6576
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20251231",
+        "holder_name": "海尔卡奥斯股份有限公司",
+        "hold_ratio": 13.4222
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20251231",
+        "holder_name": "海尔集团公司",
+        "hold_ratio": 11.438
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20251231",
+        "holder_name": "HCH(HK)INVESTMENTMANAGEMENTCO.,LIMITED",
+        "hold_ratio": 5.743
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20251231",
+        "holder_name": "香港中央结算有限公司",
+        "hold_ratio": 3.6626
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20251231",
+        "holder_name": "中国证券金融股份有限公司",
+        "hold_ratio": 1.9471
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20251231",
+        "holder_name": "青岛海尔创业投资咨询有限公司",
+        "hold_ratio": 1.8368
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20251231",
+        "holder_name": "青岛海创智管理咨询企业(有限合伙)",
+        "hold_ratio": 1.4267
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20251231",
+        "holder_name": "全国社保基金一一三组合",
+        "hold_ratio": 0.7784
+      },
+      {
+        "ts_code": "600690.SH",
+        "end_date": "20251231",
+        "holder_name": "中国工商银行-上证50交易型开放式指数证券投资基金",
+        "hold_ratio": 0.7402
+      }
+    ]
+  },
+  "errors": []
+}

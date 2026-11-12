@@ -1,0 +1,294 @@
+{
+  "序号": "8",
+  "推进顺序": "8",
+  "企业": "迈瑞医疗",
+  "代码": "300760.SZ",
+  "行业": "医疗器械",
+  "所有制": "民营",
+  "上市地": "A",
+  "优先级": "核心",
+  "备注": "医疗设备龙头",
+  "data": {
+    "stock_basic": {
+      "ts_code": "300760.SZ",
+      "name": "迈瑞医疗",
+      "industry": "医疗保健",
+      "market": "创业板",
+      "list_date": "20181016",
+      "act_name": "李西廷,徐航",
+      "act_ent_type": "自然人"
+    },
+    "stock_company": {
+      "ts_code": "300760.SZ",
+      "main_business": "公司主要从事医疗器械的研发、制造、营销及服务,主要产品涵盖三大领域:生命信息与支持、体外诊断以及医学影像,目前已拥有丰富的产品品类。",
+      "province": "广东",
+      "city": "深圳市",
+      "employees": 21288
+    },
+    "income": [
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20201231",
+        "ann_date": "20210429",
+        "report_type": "1",
+        "revenue": 21025846389.0,
+        "oper_cost": 7366094227.0,
+        "rd_exp": 1869299818.0,
+        "n_income": 6659603292.0,
+        "total_revenue": 21025846389.0
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20211231",
+        "ann_date": "20220420",
+        "report_type": "1",
+        "revenue": 25269580818.0,
+        "oper_cost": 8842715216.0,
+        "rd_exp": 2524177625.0,
+        "n_income": 8004045870.0,
+        "total_revenue": 25269580818.0
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20221231",
+        "ann_date": "20230428",
+        "report_type": "1",
+        "revenue": 30365643811.0,
+        "oper_cost": 10885289458.0,
+        "rd_exp": 2922614427.0,
+        "n_income": 9610716815.0,
+        "total_revenue": 30365643811.0
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20231231",
+        "ann_date": "20240427",
+        "report_type": "1",
+        "revenue": 34931900884.0,
+        "oper_cost": 11820708329.0,
+        "rd_exp": 3432658732.0,
+        "n_income": 11578413404.0,
+        "total_revenue": 34931900884.0
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20241231",
+        "ann_date": "20250429",
+        "report_type": "1",
+        "revenue": 36725749548.0,
+        "oper_cost": 13547519384.0,
+        "rd_exp": 3665860585.0,
+        "n_income": 11739966642.0,
+        "total_revenue": 36725749548.0
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20251231",
+        "ann_date": "20260331",
+        "report_type": "1",
+        "revenue": 33282159404.0,
+        "oper_cost": 13207838172.0,
+        "rd_exp": 3578692207.0,
+        "n_income": 8451471405.0,
+        "total_revenue": 33282159404.0
+      }
+    ],
+    "balancesheet": [
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20201231",
+        "ann_date": "20210429",
+        "report_type": "1",
+        "total_assets": 33306388963.0,
+        "st_borr": null,
+        "lt_borr": null,
+        "bond_payable": null,
+        "nca_within_1y": 23929000.0,
+        "accounts_receiv": 1443117646.0,
+        "inventories": 3540721551.0
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20211231",
+        "ann_date": "20220420",
+        "report_type": "1",
+        "total_assets": 38103022990.0,
+        "st_borr": null,
+        "lt_borr": null,
+        "bond_payable": null,
+        "nca_within_1y": 26369000.0,
+        "accounts_receiv": 1658675548.0,
+        "inventories": 3565329699.0
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20221231",
+        "ann_date": "20230428",
+        "report_type": "1",
+        "total_assets": 46745236809.0,
+        "st_borr": null,
+        "lt_borr": null,
+        "bond_payable": null,
+        "nca_within_1y": 31819900.0,
+        "accounts_receiv": 2658711527.0,
+        "inventories": 4024915834.0
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20231231",
+        "ann_date": "20240427",
+        "report_type": "1",
+        "total_assets": 47940003061.0,
+        "st_borr": 7746194.0,
+        "lt_borr": 1381066.0,
+        "bond_payable": null,
+        "nca_within_1y": 41627611.0,
+        "accounts_receiv": 3295124769.0,
+        "inventories": 3978631580.0
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20241231",
+        "ann_date": "20250429",
+        "report_type": "1",
+        "total_assets": 56643545143.0,
+        "st_borr": 5398950.0,
+        "lt_borr": 344737.0,
+        "bond_payable": null,
+        "nca_within_1y": 44312778.0,
+        "accounts_receiv": 3219300494.0,
+        "inventories": 4757425283.0
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20251231",
+        "ann_date": "20260331",
+        "report_type": "1",
+        "total_assets": 59266767707.0,
+        "st_borr": 328106.0,
+        "lt_borr": 4062631.0,
+        "bond_payable": null,
+        "nca_within_1y": 39387487.0,
+        "accounts_receiv": 3408119891.0,
+        "inventories": 5003717480.0
+      }
+    ],
+    "fina_indicator": [
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20201231",
+        "debt_to_assets": 30.0723,
+        "roe": 31.8011
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20211231",
+        "debt_to_assets": 29.2233,
+        "roe": 31.8594
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20221231",
+        "debt_to_assets": 31.5457,
+        "roe": 32.6034
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20231231",
+        "debt_to_assets": 30.4421,
+        "roe": 35.6014
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20241231",
+        "debt_to_assets": 28.0444,
+        "roe": 33.8503
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20251231",
+        "debt_to_assets": 27.4276,
+        "roe": 22.0035
+      }
+    ],
+    "daily_basic": {
+      "ts_code": "300760.SZ",
+      "trade_date": "20261112",
+      "total_mv": 21510651.1494,
+      "pe_ttm": 27.756,
+      "pb": 5.2207
+    },
+    "pledge_stat": {
+      "ts_code": "300760.SZ",
+      "end_date": "20261106",
+      "pledge_count": 13,
+      "unrest_pledge": 6710.0,
+      "rest_pledge": 0.0,
+      "total_share": 121179.94,
+      "pledge_ratio": 5.54
+    },
+    "top10_holders": [
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20251231",
+        "holder_name": "SmartcoDevelopmentLimited",
+        "hold_ratio": 26.9763
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20251231",
+        "holder_name": "Magnifice(HK)Limited",
+        "hold_ratio": 24.492
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20251231",
+        "holder_name": "香港中央结算有限公司",
+        "hold_ratio": 8.0278
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20251231",
+        "holder_name": "EverUnion(H.K.)Limited",
+        "hold_ratio": 3.8338
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20251231",
+        "holder_name": "中国银行股份有限公司-华宝中证医疗交易型开放式指数证券投资基金",
+        "hold_ratio": 1.0422
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20251231",
+        "holder_name": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
+        "hold_ratio": 0.9582
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20251231",
+        "holder_name": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
+        "hold_ratio": 0.8245
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20251231",
+        "holder_name": "全国社保基金一一三组合",
+        "hold_ratio": 0.7046
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20251231",
+        "holder_name": "中国建设银行股份有限公司-易方达沪深300医药卫生交易型开放式指数证券投资基金",
+        "hold_ratio": 0.6677
+      },
+      {
+        "ts_code": "300760.SZ",
+        "end_date": "20251231",
+        "holder_name": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
+        "hold_ratio": 0.5891
+      }
+    ]
+  },
+  "errors": []
+}

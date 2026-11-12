@@ -1,0 +1,294 @@
+{
+  "序号": "1",
+  "推进顺序": "1",
+  "企业": "比亚迪",
+  "代码": "002594.SZ",
+  "行业": "新能源汽车",
+  "所有制": "民营",
+  "上市地": "A+H",
+  "优先级": "核心",
+  "备注": "新能源车链主",
+  "data": {
+    "stock_basic": {
+      "ts_code": "002594.SZ",
+      "name": "比亚迪",
+      "industry": "汽车整车",
+      "market": "主板",
+      "list_date": "20110630",
+      "act_name": "王传福",
+      "act_ent_type": "自然人"
+    },
+    "stock_company": {
+      "ts_code": "002594.SZ",
+      "main_business": "二次充电电池业务、手机部件及组装业务,以及包含传统燃油汽车及新能源汽车在内的汽车业务。",
+      "province": "广东",
+      "city": "深圳市",
+      "employees": 869622
+    },
+    "income": [
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20201231",
+        "ann_date": "20210330",
+        "report_type": "1",
+        "revenue": 156597691000.0,
+        "oper_cost": 126251380000.0,
+        "rd_exp": 7464861000.0,
+        "n_income": 6013963000.0,
+        "total_revenue": 156597691000.0
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20211231",
+        "ann_date": "20220330",
+        "report_type": "1",
+        "revenue": 216142395000.0,
+        "oper_cost": 187997689000.0,
+        "rd_exp": 7990974000.0,
+        "n_income": 3967266000.0,
+        "total_revenue": 216142395000.0
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20221231",
+        "ann_date": "20230329",
+        "report_type": "1",
+        "revenue": 424060635000.0,
+        "oper_cost": 351815680000.0,
+        "rd_exp": 18654453000.0,
+        "n_income": 17713104000.0,
+        "total_revenue": 424060635000.0
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20231231",
+        "ann_date": "20240327",
+        "report_type": "1",
+        "revenue": 602315354000.0,
+        "oper_cost": 480558350000.0,
+        "rd_exp": 39574945000.0,
+        "n_income": 31344070000.0,
+        "total_revenue": 602315354000.0
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20241231",
+        "ann_date": "20250325",
+        "report_type": "1",
+        "revenue": 777102455000.0,
+        "oper_cost": 626046616000.0,
+        "rd_exp": 53194745000.0,
+        "n_income": 41587940000.0,
+        "total_revenue": 777102455000.0
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20251231",
+        "ann_date": "20260328",
+        "report_type": "1",
+        "revenue": 803964958000.0,
+        "oper_cost": 661305161000.0,
+        "rd_exp": 57978105000.0,
+        "n_income": 33760758000.0,
+        "total_revenue": 803964958000.0
+      }
+    ],
+    "balancesheet": [
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20201231",
+        "ann_date": "20210330",
+        "report_type": "1",
+        "total_assets": 201017321000.0,
+        "st_borr": 16400690000.0,
+        "lt_borr": 14745495000.0,
+        "bond_payable": 8880459000.0,
+        "nca_within_1y": 1250853000.0,
+        "accounts_receiv": 41216427000.0,
+        "inventories": 31396358000.0
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20211231",
+        "ann_date": "20220330",
+        "report_type": "1",
+        "total_assets": 295780147000.0,
+        "st_borr": 10204358000.0,
+        "lt_borr": 8743519000.0,
+        "bond_payable": 2046439000.0,
+        "nca_within_1y": 1231667000.0,
+        "accounts_receiv": 36251280000.0,
+        "inventories": 43354782000.0
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20221231",
+        "ann_date": "20230329",
+        "report_type": "1",
+        "total_assets": 493860646000.0,
+        "st_borr": 5153098000.0,
+        "lt_borr": 7593596000.0,
+        "bond_payable": null,
+        "nca_within_1y": 1052562000.0,
+        "accounts_receiv": 38828494000.0,
+        "inventories": 79107199000.0
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20231231",
+        "ann_date": "20240327",
+        "report_type": "1",
+        "total_assets": 679547670000.0,
+        "st_borr": 18323216000.0,
+        "lt_borr": 11975139000.0,
+        "bond_payable": null,
+        "nca_within_1y": 7508351000.0,
+        "accounts_receiv": 61866019000.0,
+        "inventories": 87676748000.0
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20241231",
+        "ann_date": "20250325",
+        "report_type": "1",
+        "total_assets": 783355855000.0,
+        "st_borr": 12103272000.0,
+        "lt_borr": 8257786000.0,
+        "bond_payable": null,
+        "nca_within_1y": 11379480000.0,
+        "accounts_receiv": 62298988000.0,
+        "inventories": 116036237000.0
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20251231",
+        "ann_date": "20260328",
+        "report_type": "1",
+        "total_assets": 883729883000.0,
+        "st_borr": 38484710000.0,
+        "lt_borr": 60705569000.0,
+        "bond_payable": 4997910000.0,
+        "nca_within_1y": 20533911000.0,
+        "accounts_receiv": 37004685000.0,
+        "inventories": 138420580000.0
+      }
+    ],
+    "fina_indicator": [
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20201231",
+        "debt_to_assets": 67.9361,
+        "roe": 7.4523
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20211231",
+        "debt_to_assets": 64.7562,
+        "roe": 4.0083
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20221231",
+        "debt_to_assets": 75.4202,
+        "roe": 16.1305
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20231231",
+        "debt_to_assets": 77.8585,
+        "roe": 24.0481
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20241231",
+        "debt_to_assets": 74.6363,
+        "roe": 24.8437
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20251231",
+        "debt_to_assets": 70.7445,
+        "roe": 15.118
+      }
+    ],
+    "daily_basic": {
+      "ts_code": "002594.SZ",
+      "trade_date": "20261112",
+      "total_mv": 73229330.32,
+      "pe_ttm": 23.1513,
+      "pb": 2.9413
+    },
+    "pledge_stat": {
+      "ts_code": "002594.SZ",
+      "end_date": "20261106",
+      "pledge_count": 80,
+      "unrest_pledge": 24832.35,
+      "rest_pledge": 0.0,
+      "total_share": 543379.76,
+      "pledge_ratio": 4.57
+    },
+    "top10_holders": [
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20251231",
+        "holder_name": "HKSCCNOMINEESLIMITED",
+        "hold_ratio": 40.3786
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20251231",
+        "holder_name": "融捷投资控股集团有限公司",
+        "hold_ratio": 5.1052
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20251231",
+        "holder_name": "香港中央结算有限公司",
+        "hold_ratio": 2.382
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20251231",
+        "holder_name": "王念强",
+        "hold_ratio": 0.6022
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20251231",
+        "holder_name": "张炜",
+        "hold_ratio": 0.5493
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20251231",
+        "holder_name": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
+        "hold_ratio": 0.4908
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20251231",
+        "holder_name": "全国社保基金一一四组合",
+        "hold_ratio": 0.428
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20251231",
+        "holder_name": "王传福",
+        "hold_ratio": 16.9007
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20251231",
+        "holder_name": "吕向阳",
+        "hold_ratio": 7.8718
+      },
+      {
+        "ts_code": "002594.SZ",
+        "end_date": "20251231",
+        "holder_name": "夏佐全",
+        "hold_ratio": 2.7191
+      }
+    ]
+  },
+  "errors": []
+}

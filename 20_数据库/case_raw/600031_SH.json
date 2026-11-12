@@ -1,0 +1,294 @@
+{
+  "序号": "10",
+  "推进顺序": "备选2",
+  "企业": "三一重工",
+  "代码": "600031.SH",
+  "行业": "工程机械",
+  "所有制": "民营",
+  "上市地": "A",
+  "优先级": "备选",
+  "备注": "装备链主",
+  "data": {
+    "stock_basic": {
+      "ts_code": "600031.SH",
+      "name": "三一重工",
+      "industry": "工程机械",
+      "market": "主板",
+      "list_date": "20030703",
+      "act_name": "梁稳根",
+      "act_ent_type": "自然人"
+    },
+    "stock_company": {
+      "ts_code": "600031.SH",
+      "main_business": "工程机械产品及配件的开发、生产和销售。",
+      "province": "北京",
+      "city": "北京市",
+      "employees": 28469
+    },
+    "income": [
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20201231",
+        "ann_date": "20210331",
+        "report_type": "1",
+        "revenue": 99341988000.0,
+        "oper_cost": 69719945000.0,
+        "rd_exp": 4991572000.0,
+        "n_income": 15860689000.0,
+        "total_revenue": 100054283000.0
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20211231",
+        "ann_date": "20220423",
+        "report_type": "1",
+        "revenue": 106113346000.0,
+        "oper_cost": 78679820000.0,
+        "rd_exp": 6508888000.0,
+        "n_income": 12325681000.0,
+        "total_revenue": 106873394000.0
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20221231",
+        "ann_date": "20230401",
+        "report_type": "1",
+        "revenue": 80018098000.0,
+        "oper_cost": 60799763000.0,
+        "rd_exp": 6922913000.0,
+        "n_income": 4404585000.0,
+        "total_revenue": 80822133000.0
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20231231",
+        "ann_date": "20240429",
+        "report_type": "1",
+        "revenue": 73221725000.0,
+        "oper_cost": 52934696000.0,
+        "rd_exp": 5864595000.0,
+        "n_income": 4606157000.0,
+        "total_revenue": 74018936000.0
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20241231",
+        "ann_date": "20250418",
+        "report_type": "1",
+        "revenue": 77773391000.0,
+        "oper_cost": 57216959000.0,
+        "rd_exp": 5380621000.0,
+        "n_income": 6092538000.0,
+        "total_revenue": 78383379000.0
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20251231",
+        "ann_date": "20260331",
+        "report_type": "1",
+        "revenue": 89231023000.0,
+        "oper_cost": 64660293000.0,
+        "rd_exp": 5032789000.0,
+        "n_income": 8487650000.0,
+        "total_revenue": 89699505000.0
+      }
+    ],
+    "balancesheet": [
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20201231",
+        "ann_date": "20210331",
+        "report_type": "1",
+        "total_assets": 126254548000.0,
+        "st_borr": 7636411000.0,
+        "lt_borr": 4531569000.0,
+        "bond_payable": null,
+        "nca_within_1y": 7438481000.0,
+        "accounts_receiv": 21512081000.0,
+        "inventories": 19197907000.0
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20211231",
+        "ann_date": "20220423",
+        "report_type": "1",
+        "total_assets": 138556543000.0,
+        "st_borr": 5777989000.0,
+        "lt_borr": 9602665000.0,
+        "bond_payable": null,
+        "nca_within_1y": 11677264000.0,
+        "accounts_receiv": 19655404000.0,
+        "inventories": 18462609000.0
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20221231",
+        "ann_date": "20230401",
+        "report_type": "1",
+        "total_assets": 158754601000.0,
+        "st_borr": 4540048000.0,
+        "lt_borr": 21624937000.0,
+        "bond_payable": null,
+        "nca_within_1y": 11716466000.0,
+        "accounts_receiv": 25021610000.0,
+        "inventories": 19738362000.0
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20231231",
+        "ann_date": "20240429",
+        "report_type": "1",
+        "total_assets": 151202320000.0,
+        "st_borr": 4115624000.0,
+        "lt_borr": 23555728000.0,
+        "bond_payable": null,
+        "nca_within_1y": 12004314000.0,
+        "accounts_receiv": 24164729000.0,
+        "inventories": 19767762000.0
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20241231",
+        "ann_date": "20250418",
+        "report_type": "1",
+        "total_assets": 152145076000.0,
+        "st_borr": 5953356000.0,
+        "lt_borr": 11556182000.0,
+        "bond_payable": null,
+        "nca_within_1y": 10843597000.0,
+        "accounts_receiv": 25516530000.0,
+        "inventories": 19947981000.0
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20251231",
+        "ann_date": "20260331",
+        "report_type": "1",
+        "total_assets": 173299138000.0,
+        "st_borr": 9128447000.0,
+        "lt_borr": 7853367000.0,
+        "bond_payable": null,
+        "nca_within_1y": 10507124000.0,
+        "accounts_receiv": 25540365000.0,
+        "inventories": 22526664000.0
+      }
+    ],
+    "fina_indicator": [
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20201231",
+        "debt_to_assets": 53.9124,
+        "roe": 30.5624
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20211231",
+        "debt_to_assets": 53.0191,
+        "roe": 20.0133
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20221231",
+        "debt_to_assets": 58.4209,
+        "roe": 6.6422
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20231231",
+        "debt_to_assets": 54.2514,
+        "roe": 6.808
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20241231",
+        "debt_to_assets": 52.0184,
+        "roe": 8.5368
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20251231",
+        "debt_to_assets": 48.3948,
+        "roe": 10.4914
+      }
+    ],
+    "daily_basic": {
+      "ts_code": "600031.SH",
+      "trade_date": "20261112",
+      "total_mv": 16799273.0388,
+      "pe_ttm": 18.1031,
+      "pb": 1.7824
+    },
+    "pledge_stat": {
+      "ts_code": "600031.SH",
+      "end_date": "20261106",
+      "pledge_count": 3,
+      "unrest_pledge": 42679.8,
+      "rest_pledge": 0.0,
+      "total_share": 847439.0,
+      "pledge_ratio": 5.04
+    },
+    "top10_holders": [
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20251231",
+        "holder_name": "三一集团有限公司",
+        "hold_ratio": 26.9721
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20251231",
+        "holder_name": "香港中央结算有限公司",
+        "hold_ratio": 11.4533
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20251231",
+        "holder_name": "梁稳根",
+        "hold_ratio": 2.5649
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20251231",
+        "holder_name": "中国证券金融股份有限公司",
+        "hold_ratio": 2.5378
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20251231",
+        "holder_name": "中国工商银行-上证50交易型开放式指数证券投资基金",
+        "hold_ratio": 1.1935
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20251231",
+        "holder_name": "全国社保基金一零三组合",
+        "hold_ratio": 1.1419
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20251231",
+        "holder_name": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
+        "hold_ratio": 1.0653
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20251231",
+        "holder_name": "全国社保基金一一四组合",
+        "hold_ratio": 0.9656
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20251231",
+        "holder_name": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
+        "hold_ratio": 0.76
+      },
+      {
+        "ts_code": "600031.SH",
+        "end_date": "20251231",
+        "holder_name": "中央汇金资产管理有限责任公司",
+        "hold_ratio": 0.6986
+      }
+    ]
+  },
+  "errors": []
+}

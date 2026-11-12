@@ -1,0 +1,294 @@
+{
+  "序号": "9",
+  "推进顺序": "备选1",
+  "企业": "京东方",
+  "代码": "000725.SZ",
+  "行业": "显示面板",
+  "所有制": "国有",
+  "上市地": "A+B",
+  "优先级": "备选",
+  "备注": "面板龙头",
+  "data": {
+    "stock_basic": {
+      "ts_code": "000725.SZ",
+      "name": "京东方A",
+      "industry": "元器件",
+      "market": "主板",
+      "list_date": "20010112",
+      "act_name": "北京市人民政府国有资产监督管理委员会",
+      "act_ent_type": "地方国企"
+    },
+    "stock_company": {
+      "ts_code": "000725.SZ",
+      "main_business": "光电子与显示器件、显示信息终端设备。",
+      "province": "北京",
+      "city": "北京市",
+      "employees": 109895
+    },
+    "income": [
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20201231",
+        "ann_date": "20210413",
+        "report_type": "1",
+        "revenue": 135552569729.0,
+        "oper_cost": 108823122756.0,
+        "rd_exp": 7622597925.0,
+        "n_income": 4528270416.0,
+        "total_revenue": 135552569729.0
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20211231",
+        "ann_date": "20220331",
+        "report_type": "1",
+        "revenue": 219309799505.0,
+        "oper_cost": 155985225295.0,
+        "rd_exp": 10668844187.0,
+        "n_income": 30431668974.0,
+        "total_revenue": 219309799505.0
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20221231",
+        "ann_date": "20230404",
+        "report_type": "1",
+        "revenue": 178413731179.0,
+        "oper_cost": 157530566152.0,
+        "rd_exp": 11100768677.0,
+        "n_income": -1737175168.0,
+        "total_revenue": 178413731179.0
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20231231",
+        "ann_date": "20240402",
+        "report_type": "1",
+        "revenue": 174543445895.0,
+        "oper_cost": 152633061367.0,
+        "rd_exp": 11319503088.0,
+        "n_income": 369871329.0,
+        "total_revenue": 174543445895.0
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20241231",
+        "ann_date": "20250422",
+        "report_type": "1",
+        "revenue": 198380605661.0,
+        "oper_cost": 168221949573.0,
+        "rd_exp": 13123309231.0,
+        "n_income": 4145273882.0,
+        "total_revenue": 198380605661.0
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20251231",
+        "ann_date": "20260401",
+        "report_type": "1",
+        "revenue": 204590222888.0,
+        "oper_cost": 172602044011.0,
+        "rd_exp": 13836670878.0,
+        "n_income": 5027373569.0,
+        "total_revenue": 204590222888.0
+      }
+    ],
+    "balancesheet": [
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20201231",
+        "ann_date": "20210413",
+        "report_type": "1",
+        "total_assets": 424256806331.0,
+        "st_borr": 8599569471.0,
+        "lt_borr": 132452767135.0,
+        "bond_payable": 398971739.0,
+        "nca_within_1y": null,
+        "accounts_receiv": 22969140355.0,
+        "inventories": 17875454490.0
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20211231",
+        "ann_date": "20220331",
+        "report_type": "1",
+        "total_assets": 450232603405.0,
+        "st_borr": 2072057332.0,
+        "lt_borr": 116078666587.0,
+        "bond_payable": 359586437.0,
+        "nca_within_1y": 7700735.0,
+        "accounts_receiv": 35503414820.0,
+        "inventories": 27805161436.0
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20221231",
+        "ann_date": "20230404",
+        "report_type": "1",
+        "total_assets": 420567865936.0,
+        "st_borr": 2373938871.0,
+        "lt_borr": 123143479690.0,
+        "bond_payable": null,
+        "nca_within_1y": 8561307.0,
+        "accounts_receiv": 28203647569.0,
+        "inventories": 22787814225.0
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20231231",
+        "ann_date": "20240402",
+        "report_type": "1",
+        "total_assets": 419187099795.0,
+        "st_borr": 1746184534.0,
+        "lt_borr": 121546339022.0,
+        "bond_payable": null,
+        "nca_within_1y": 8683381.0,
+        "accounts_receiv": 33365416490.0,
+        "inventories": 24119667325.0
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20241231",
+        "ann_date": "20250422",
+        "report_type": "1",
+        "total_assets": 429978221541.0,
+        "st_borr": 1563317166.0,
+        "lt_borr": 100932391740.0,
+        "bond_payable": null,
+        "nca_within_1y": 3900201.0,
+        "accounts_receiv": 36338199204.0,
+        "inventories": 23313464392.0
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20251231",
+        "ann_date": "20260401",
+        "report_type": "1",
+        "total_assets": 436378322803.0,
+        "st_borr": 3655021437.0,
+        "lt_borr": 101576573473.0,
+        "bond_payable": 10968768052.0,
+        "nca_within_1y": 4081560.0,
+        "accounts_receiv": 32293002623.0,
+        "inventories": 27748526136.0
+      }
+    ],
+    "fina_indicator": [
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20201231",
+        "debt_to_assets": 59.1291,
+        "roe": 5.0779
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20211231",
+        "debt_to_assets": 51.7186,
+        "roe": 20.9698
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20221231",
+        "debt_to_assets": 51.9601,
+        "roe": 5.4096
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20231231",
+        "debt_to_assets": 52.8137,
+        "roe": 1.9189
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20241231",
+        "debt_to_assets": 52.4287,
+        "roe": 4.0579
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20251231",
+        "debt_to_assets": 52.4551,
+        "roe": 4.3804
+      }
+    ],
+    "daily_basic": {
+      "ts_code": "000725.SZ",
+      "trade_date": "20261112",
+      "total_mv": 16336548.648,
+      "pe_ttm": 29.6662,
+      "pb": 1.2415
+    },
+    "pledge_stat": {
+      "ts_code": "000725.SZ",
+      "end_date": "20261106",
+      "pledge_count": 5,
+      "unrest_pledge": 22300.0,
+      "rest_pledge": 0.0,
+      "total_share": 3635144.39,
+      "pledge_ratio": 0.61
+    },
+    "top10_holders": [
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20251231",
+        "holder_name": "北京国有资本运营管理有限公司",
+        "hold_ratio": 10.8605
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20251231",
+        "holder_name": "香港中央结算有限公司",
+        "hold_ratio": 7.3771
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20251231",
+        "holder_name": "北京京东方投资发展有限公司",
+        "hold_ratio": 2.1973
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20251231",
+        "holder_name": "北京京国瑞国企改革发展基金(有限合伙)",
+        "hold_ratio": 1.9194
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20251231",
+        "holder_name": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
+        "hold_ratio": 1.6178
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20251231",
+        "holder_name": "福清市汇融创业投资集团有限公司",
+        "hold_ratio": 1.4396
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20251231",
+        "holder_name": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
+        "hold_ratio": 1.1562
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20251231",
+        "holder_name": "上海高毅资产管理合伙企业(有限合伙)-高毅晓峰2号致信基金",
+        "hold_ratio": 0.9408
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20251231",
+        "holder_name": "中国工商银行股份有限公司-华夏沪深300交易型开放式指数证券投资基金",
+        "hold_ratio": 0.8824
+      },
+      {
+        "ts_code": "000725.SZ",
+        "end_date": "20251231",
+        "holder_name": "中国对外经济贸易信托有限公司-外贸信托-高毅晓峰鸿远集合资金信托计划",
+        "hold_ratio": 0.8579
+      }
+    ]
+  },
+  "errors": []
+}

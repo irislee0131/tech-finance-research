@@ -1,0 +1,25 @@
+# 密钥：只保留说明文件
+_secrets/*
+!_secrets/README.md
+
+# 本地产物
+20_数据库/*.db
+20_数据库/*.db-journal
+20_数据库/*.sqlite
+*.log
+*.tmp
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 大文件原始快照（按需取消注释）
+# 14_原始公告/**/*.pdf
