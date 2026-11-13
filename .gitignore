@@ -7,6 +7,7 @@ _secrets/*
 20_数据库/*.db-journal
 20_数据库/*.sqlite
 20_数据库/vendor/
+20_数据库/w2_annual_text/
 14_原始公告/**/*.pdf
 *.log
 *.tmp
