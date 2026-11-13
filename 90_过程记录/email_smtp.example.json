@@ -1,0 +1,8 @@
+{
+  "host": "smtp.qq.com",
+  "port": 465,
+  "user": "20139221@qq.com",
+  "auth_code": "请填入QQ邮箱授权码",
+  "to": "20139221@qq.com",
+  "subject": "【研究项目】W2–W4 初稿完成，6 项待决策（2026-11-13）"
+}

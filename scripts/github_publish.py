@@ -18,7 +18,7 @@ TOKEN = (ROOT / "_secrets" / "github_token.txt").read_text(encoding="utf-8-sig")
 OWNER = "irislee0131"
 REPO = "tech-finance-research"
 BRANCH = "main"
-MESSAGE = "W2-W4 first drafts: status memo and pending decisions email"
+MESSAGE = "Add ready-to-send email draft (.eml) and SMTP config example"
 
 EXCLUDE_DIRS = {"_secrets", "__pycache__", ".git", "vendor", "w2_annual_text"}
 EXCLUDE_SUFFIXES = {".pyc", ".db", ".db-journal", ".sqlite", ".log", ".pdf"}
