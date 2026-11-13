@@ -6,6 +6,8 @@ _secrets/*
 20_数据库/*.db
 20_数据库/*.db-journal
 20_数据库/*.sqlite
+20_数据库/vendor/
+14_原始公告/**/*.pdf
 *.log
 *.tmp
 ~$*

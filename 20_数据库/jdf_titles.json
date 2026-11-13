@@ -1,0 +1,331 @@
+{
+  "债券": {
+    "count": 58,
+    "items": [
+      {
+        "title": "京东方科技集团股份有限公司公司债券临时受托管理事务报告",
+        "date": 1792684800000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-10-23/1225615497.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司公司债券受托管理事务报告（2025年度）",
+        "date": 1782403200000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-06-26/1225386919.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司公司债券临时受托管理事务报告",
+        "date": 1777046400000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225184531.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第二期）在深圳证券交易所上市的公告",
+        "date": 1774252569000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-03-23/1225024359.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第二期）发行结果公告",
+        "date": 1773910212000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-03-19/1225017630.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行公司债券（第二期）票面利率公告",
+        "date": 1773747445000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-03-17/1225014914.PDF"
+      },
+      {
+        "title": "关于延长“京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第二期）”簿记建档时间的公告",
+        "date": 1773738191000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-03-17/1225013605.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第二期）募集说明书",
+        "date": 1773400089000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-03-13/1225008126.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第二期）发行公告",
+        "date": 1773400089000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-03-13/1225008124.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第一期）在深圳证券交易所上市的公告",
+        "date": 1769500688000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-01-27/1224951825.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第一期）发行结果公告",
+        "date": 1769160131000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-01-23/1224947676.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第一期）票面利率公告",
+        "date": 1768998610000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-01-21/1224944973.PDF"
+      }
+    ]
+  },
+  "募集说明书": {
+    "count": 5,
+    "items": [
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第二期）募集说明书",
+        "date": 1773400089000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-03-13/1225008126.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第一期）募集说明书",
+        "date": 1768910169000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-01-20/1224942551.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2025年面向专业投资者公开发行科技创新公司债券（第三期）募集说明书",
+        "date": 1762860488000,
+        "url": "http://static.cninfo.com.cn/finalpage/2025-11-11/1224799190.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2025年面向专业投资者公开发行科技创新公司债券（第二期）募集说明书",
+        "date": 1762176969000,
+        "url": "http://static.cninfo.com.cn/finalpage/2025-11-03/1224785112.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2025年面向专业投资者公开发行科技创新公司债券（第一期）募集说明书",
+        "date": 1749559208000,
+        "url": "http://static.cninfo.com.cn/finalpage/2025-06-10/1223836933.PDF"
+      }
+    ]
+  },
+  "担保": {
+    "count": 9,
+    "items": [
+      {
+        "title": "关于控股子公司担保额度预计的公告",
+        "date": 1776096000000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-04-14/1225098320.PDF"
+      },
+      {
+        "title": "对外担保管理办法（2025年8月）",
+        "date": 1756310400000,
+        "url": "http://static.cninfo.com.cn/finalpage/2025-08-28/1224598997.PDF"
+      },
+      {
+        "title": "关于为京东方视讯科技有限公司提供担保的公告",
+        "date": 1745251200000,
+        "url": "http://static.cninfo.com.cn/finalpage/2025-04-22/1223193306.PDF"
+      },
+      {
+        "title": "关于控股子公司担保额度预计的公告",
+        "date": 1744905600000,
+        "url": "http://static.cninfo.com.cn/finalpage/2025-04-18/1223127350.PDF"
+      },
+      {
+        "title": "关于为下属子公司办理贷款置换继续提供担保的公告",
+        "date": 1734969600000,
+        "url": "http://static.cninfo.com.cn/finalpage/2024-12-24/1222116023.PDF"
+      },
+      {
+        "title": "关于为下属子公司办理贷款置换继续提供担保的公告",
+        "date": 1724774400000,
+        "url": "http://static.cninfo.com.cn/finalpage/2024-08-28/1221006488.PDF"
+      },
+      {
+        "title": "关于控股子公司担保额度预计的公告",
+        "date": 1711987200000,
+        "url": "http://static.cninfo.com.cn/finalpage/2024-04-02/1219494125.PDF"
+      },
+      {
+        "title": "独立董事关于控股股东及其他关联方占用公司资金、公司对外担保情况的专项说明和独立意见",
+        "date": 1693238400000,
+        "url": "http://static.cninfo.com.cn/finalpage/2023-08-29/1217675813.PDF"
+      },
+      {
+        "title": "独立董事对担保等事项的独立意见",
+        "date": 1680537600000,
+        "url": "http://static.cninfo.com.cn/finalpage/2023-04-04/1216320172.PDF"
+      }
+    ]
+  },
+  "授信": {
+    "count": 0,
+    "items": []
+  },
+  "募集资金": {
+    "count": 14,
+    "items": [
+      {
+        "title": "募集资金管理办法（2025年8月）",
+        "date": 1756310400000,
+        "url": "http://static.cninfo.com.cn/finalpage/2025-08-28/1224598999.PDF"
+      },
+      {
+        "title": "中信建投证券股份有限公司关于京东方科技集团股份有限公司2023年度募集资金存放与使用情况的专项核查报告",
+        "date": 1711987200000,
+        "url": "http://static.cninfo.com.cn/finalpage/2024-04-02/1219494137.PDF"
+      },
+      {
+        "title": "华英证券有限责任公司关于京东方科技集团股份有限公司2023年度募集资金存放与使用情况之专项核查意见-clean",
+        "date": 1711987200000,
+        "url": "http://static.cninfo.com.cn/finalpage/2024-04-02/1219494133.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司募集资金2023年度存放与实际使用情况专项报告的鉴证报告",
+        "date": 1711987200000,
+        "url": "http://static.cninfo.com.cn/finalpage/2024-04-02/1219494115.PDF"
+      },
+      {
+        "title": "中信建投证券股份有限公司关于京东方科技集团股份有限公司募投项目结项并将节余募集资金永久补充流动资金的核查意见",
+        "date": 1703606400000,
+        "url": "http://static.cninfo.com.cn/finalpage/2023-12-27/1218733239.PDF"
+      },
+      {
+        "title": "华英证券有限责任公司关于京东方科技集团股份有限公司募投项目结项并将节余募集资金永久补充流动资金的核查意见",
+        "date": 1703606400000,
+        "url": "http://static.cninfo.com.cn/finalpage/2023-12-27/1218733235.PDF"
+      },
+      {
+        "title": "关于募投项目结项并将节余募集资金永久补充流动资金的公告",
+        "date": 1703606400000,
+        "url": "http://static.cninfo.com.cn/finalpage/2023-12-27/1218733231.PDF"
+      },
+      {
+        "title": "关于签订募集资金三方监管协议的公告",
+        "date": 1700841600000,
+        "url": "http://static.cninfo.com.cn/finalpage/2023-11-25/1218431729.PDF"
+      },
+      {
+        "title": "华英证券有限责任公司关于京东方科技集团股份有限公司变更部分募集资金投资项目的核查意见",
+        "date": 1698681600000,
+        "url": "http://static.cninfo.com.cn/finalpage/2023-10-31/1218214474.PDF"
+      },
+      {
+        "title": "中信建投证券股份有限公司关于京东方科技集团股份有限公司变更部分募集资金投资项目的核查意见",
+        "date": 1698681600000,
+        "url": "http://static.cninfo.com.cn/finalpage/2023-10-31/1218214472.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司关于募集资金2023年半年度存放与实际使用情况的专项报告",
+        "date": 1693238400000,
+        "url": "http://static.cninfo.com.cn/finalpage/2023-08-29/1217675797.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司募集资金2022年度存放与实际使用情况专项报告的鉴证报告",
+        "date": 1680537600000,
+        "url": "http://static.cninfo.com.cn/finalpage/2023-04-04/1216320176.PDF"
+      }
+    ]
+  },
+  "公司债": {
+    "count": 58,
+    "items": [
+      {
+        "title": "京东方科技集团股份有限公司公司债券临时受托管理事务报告",
+        "date": 1792684800000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-10-23/1225615497.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司公司债券受托管理事务报告（2025年度）",
+        "date": 1782403200000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-06-26/1225386919.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司公司债券临时受托管理事务报告",
+        "date": 1777046400000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225184531.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第二期）在深圳证券交易所上市的公告",
+        "date": 1774252569000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-03-23/1225024359.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第二期）发行结果公告",
+        "date": 1773910212000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-03-19/1225017630.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行公司债券（第二期）票面利率公告",
+        "date": 1773747445000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-03-17/1225014914.PDF"
+      },
+      {
+        "title": "关于延长“京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第二期）”簿记建档时间的公告",
+        "date": 1773738191000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-03-17/1225013605.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第二期）募集说明书",
+        "date": 1773400089000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-03-13/1225008126.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第二期）发行公告",
+        "date": 1773400089000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-03-13/1225008124.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第一期）在深圳证券交易所上市的公告",
+        "date": 1769500688000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-01-27/1224951825.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第一期）发行结果公告",
+        "date": 1769160131000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-01-23/1224947676.PDF"
+      },
+      {
+        "title": "京东方科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第一期）票面利率公告",
+        "date": 1768998610000,
+        "url": "http://static.cninfo.com.cn/finalpage/2026-01-21/1224944973.PDF"
+      }
+    ]
+  },
+  "中期票据": {
+    "count": 1,
+    "items": [
+      {
+        "title": "关于公司申请注册发行中期票据和超短期融资券的公告",
+        "date": 1720454400000,
+        "url": "http://static.cninfo.com.cn/finalpage/2024-07-09/1220559450.PDF"
+      }
+    ]
+  },
+  "银团": {
+    "count": 0,
+    "items": []
+  },
+  "并购贷款": {
+    "count": 0,
+    "items": []
+  },
+  "保理": {
+    "count": 3,
+    "items": [
+      {
+        "title": "对外担保管理办法（2025年8月）",
+        "date": 1756310400000,
+        "url": "http://static.cninfo.com.cn/finalpage/2025-08-28/1224598997.PDF"
+      },
+      {
+        "title": "关于为下属子公司办理贷款置换继续提供担保的公告",
+        "date": 1734969600000,
+        "url": "http://static.cninfo.com.cn/finalpage/2024-12-24/1222116023.PDF"
+      },
+      {
+        "title": "关于为下属子公司办理贷款置换继续提供担保的公告",
+        "date": 1724774400000,
+        "url": "http://static.cninfo.com.cn/finalpage/2024-08-28/1221006488.PDF"
+      }
+    ]
+  },
+  "供应链": {
+    "count": 0,
+    "items": []
+  },
+  "可转债": {
+    "count": 0,
+    "items": []
+  },
+  "ABS": {
+    "count": 0,
+    "items": []
+  }
+}

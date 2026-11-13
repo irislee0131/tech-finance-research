@@ -20,8 +20,8 @@ REPO = "tech-finance-research"
 BRANCH = "main"
 MESSAGE = "Initial import: research framework, standards, data exploration, templates"
 
-EXCLUDE_DIRS = {"_secrets", "__pycache__", ".git"}
-EXCLUDE_SUFFIXES = {".pyc", ".db", ".db-journal", ".sqlite", ".log"}
+EXCLUDE_DIRS = {"_secrets", "__pycache__", ".git", "vendor"}
+EXCLUDE_SUFFIXES = {".pyc", ".db", ".db-journal", ".sqlite", ".log", ".pdf"}
 EXCLUDE_NAMES = {"Thumbs.db", "desktop.ini"}
 
 
