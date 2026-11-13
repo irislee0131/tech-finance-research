@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<style>
+  body { font-family: -apple-system, "Microsoft YaHei", Arial, sans-serif; color: #222; line-height: 1.6; font-size: 14px; }
+  h2 { font-size: 16px; margin: 22px 0 8px; border-left: 4px solid #1f4e79; padding-left: 8px; }
+  table { border-collapse: collapse; width: 100%; margin: 8px 0 14px; }
+  th, td { border: 1px solid #d0d7de; padding: 6px 8px; vertical-align: top; }
+  th { background: #f3f6f9; text-align: left; }
+  .muted { color: #666; font-size: 12px; }
+  .warn { background: #fff8e6; border-left: 4px solid #d9a400; padding: 8px 10px; margin: 10px 0; }
+  code { background: #f3f6f9; padding: 1px 4px; border-radius: 3px; }
+</style>
+</head>
+<body>
+
+<p>您好，</p>
+
+<p>W2、W3、W4 第二试点测试已完成初稿，W4–W6 主样本尚未开始。以下是状态、6 项待决策和重点复核点。</p>
+
+<h2>一、状态</h2>
+<table>
+  <tr><th>阶段</th><th>初稿</th><th>完成度</th><th>说明</th></tr>
+  <tr><td>W2 银行侧正推</td><td>是</td><td>约 80%</td><td>三张卡片、资料索引、公告扫描、年报补读；招行正文 CID、并表范围、AIC 批复未闭环</td></tr>
+  <tr><td>W3 试点</td><td>是</td><td>约 75%</td><td>宁德 6 条 / 中车 1 条 / 京东方 0；数值通过，但专户占比问题未决</td></tr>
+  <tr><td>W4 第二试点测试</td><td>是</td><td>约 90%</td><td>立讯 2 条、美的/比亚迪 0；试点改立讯的建议已写，框架未改</td></tr>
+  <tr><td>W4–W6 主样本</td><td>否</td><td>0%</td><td>比亚迪、京东方、三一尚未开始</td></tr>
+</table>
+
+<h2>二、待决策（6 项）</h2>
+<table>
+  <tr><th>编号</th><th>决策</th><th>建议</th></tr>
+  <tr><td>D21</td><td>试点是否改为<strong>宁德 + 立讯</strong>，中车转约束案例</td><td>同意</td></tr>
+  <tr><td>D22</td><td>10.3 是否加“<strong>A 级中至少 2 条为授信/承销/租赁/股权，专户不超过 2 条</strong>”</td><td>同意</td></tr>
+  <tr><td>D23</td><td>立讯角色：<strong>例外对照 + 第二试点</strong>（只验证授信，不进主类型）</td><td>同意</td></tr>
+  <tr><td>D24</td><td>中车在 5 主样本中的角色：<strong>保留为约束案例</strong>，还是替换</td><td>建议保留，不替换</td></tr>
+  <tr><td>D25</td><td>招行正文 CID：是否投入找 SSE 简化字版/OCR</td><td>暂不投入，先用摘要</td></tr>
+  <tr><td>D26</td><td>是否现在升<strong>框架 v2.4</strong>、同步数据字典 v1.3 和 CSV 角色</td><td>建议先升</td></tr>
+</table>
+
+<h2>三、重点复核</h2>
+
+<p><strong>W2</strong></p>
+<ul>
+  <li>招行正文 CID 乱码，已改用 2025 年报摘要（p.12/13）；科技金融部 / 1+20+100 / 六专 / 资质分仍是媒体口径（C）。</li>
+  <li>并表范围 / A/B 归类待确认：招商信诺、招联消金；中信保诚；兴业研究、兴业消费金融。</li>
+  <li>AIC 批复原文（金复〔2025〕638/666/667 号）未取。</li>
+</ul>
+
+<p><strong>W3</strong></p>
+<ul>
+  <li>宁德 4 条 A 级中 3 条是募集资金专户，只有中信证券 1 条是承销；不要写成“授信 / 综合融资”。</li>
+  <li>招银国际、招银金租是 B 级；中信证券是 B 类（集团兄弟公司），不是中信银行子公司。</li>
+  <li>中车只有中信银行 1 条 B 级，担保债权银行是工商银行；是“约束案例”，不是“没有银行关系”。</li>
+  <li>京东方 0 条；中信建投不是中信系，排除正确。</li>
+</ul>
+
+<p><strong>W4</strong></p>
+<ul>
+  <li>立讯 2 条是<strong>授信额度</strong>（招商 50 亿、兴业 50 亿），不是实际提款。</li>
+  <li>无中信、无跨法人；跨法人仍靠宁德。</li>
+  <li>美的、比亚迪为 0，是“这些公告不披露银行名称”，不等于没有合作。</li>
+</ul>
+
+<p><strong>一致性</strong></p>
+<ul>
+  <li>框架 v2.3 的 10.2 仍写“宁德 + 中车”；README D18、<code>02_案例长名单.csv</code>、<code>01_数据字典_v1.2</code> 都还是旧口径，需要 v2.4 一次性同步。</li>
+</ul>
+
+<h2>四、下一步</h2>
+<p>确认 D21–D26 后：框架升 v2.4 → 数据字典升 v1.3 → CSV 更新角色 → 进入 W4–W6 主样本（比亚迪、京东方、三一）。</p>
+
+<h2>五、文件</h2>
+<ul>
+  <li>仓库：<a href="https://github.com/irislee0131/tech-finance-research">github.com/irislee0131/tech-finance-research</a></li>
+  <li>状态快照：<code>90_过程记录/当前状态与待决策_20261113.md</code></li>
+  <li>W2：<code>90_过程记录/W2_银行侧正推.md</code>、<code>90_过程记录/W2_年报补读.md</code></li>
+  <li>W3：<code>90_过程记录/W3_试点报告.md</code></li>
+  <li>W4：<code>90_过程记录/W4_第二试点测试.md</code></li>
+</ul>
+
+<p class="muted">研究项目组 · 2026-11-13 · 数据截止 2026-11-13</p>
+
+</body>
+</html>
